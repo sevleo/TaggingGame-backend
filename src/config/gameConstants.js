@@ -12,7 +12,7 @@ const GAME_SPEED_RATE = 10;
 const MAX_PLAYERS = 5;
 
 // Websocket connection
-const BROADCAST_RATE_INTERVAL = 10;
+const BROADCAST_RATE_INTERVAL = 100;
 const THROTTLING_INTERVAL = 0;
 
 // Pawn
